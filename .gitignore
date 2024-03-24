@@ -1,0 +1,8 @@
+/fullstak_to_do_app/info.txt
+/fullstak_to_do_app/main_local.py
+/fullstak_to_do_app/main_neon.py
+/fullstak_to_do_app/py_venv
+*.env
+./fullstak_to_do_app/poetry_todoApp/.env
+/fullstak_to_do_app/__pycache__
+/fullstak_to_do_app/nextjs_todo-app/node_modules
